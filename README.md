@@ -15,7 +15,7 @@ Currently building a strong foundation in **data analysis, databases, and progra
 * 💾 **Database:** SQL
 * 🐍 **Programming:** Python (NumPy, Pandas – learning)
 * 📈 **Tools:** Excel 
-* 🌐 **Web Basics:** HTML, CSS (for understanding data dashboards)
+* 🌐 **Web Basics:** HTML, CSS ,JavaScript(for understanding data dashboards)
 
 ---
 
