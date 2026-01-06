@@ -1,5 +1,3 @@
-Here’s your **updated and polished profile**, changed from **Software Developer** to **Data Analyst**, while keeping it clean and professional for GitHub/LinkedIn 👌
-
 ---
 
 # 👋 Hi, I'm **Pabitra Regmi**
